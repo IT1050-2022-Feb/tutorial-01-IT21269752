@@ -12,7 +12,7 @@ int main() {
 
   printf("enter  mark a");
   scanf("%d",&a);
-   printf("enter  mark a");
+   printf("enter  mark b");
   scanf("%d",&b);
 
 average=(a+b)/2;
